@@ -512,6 +512,8 @@ function fungame_3() {
 
   document.getElementById("Sc3").innerHTML=scores.player_1+0;
   document.getElementById("Sc4").innerHTML=scores.player_2+0;
+    
+   document.getElementById('print').innerHTML="NEW GAME";
   
 
 
