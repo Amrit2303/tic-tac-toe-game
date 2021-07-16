@@ -1,0 +1,57 @@
+h1{
+  text-align: center;
+  font-size: 30px;
+}
+.jumbotron{
+  margin-left: 300px;
+  margin-right: 300px;
+
+}
+#game{
+  padding: 5px 14px;
+  margin-left: 400px;
+  margin-right: 250px;
+}
+td{
+  height:37px;
+  width: 52px;
+  text-align: center;
+  border: 2.5px solid peru;
+  font-size:25px
+}
+#b1,#b2,#b3,#b4,#b5,#b6,#b7,#b8,#b9{
+  width: 100px;
+  height: 52px;
+  font-size: 24px;
+  border: 0px solid;
+  text-align: center;
+
+}
+#print{
+  text-align: center;
+  font-size: large;
+  margin-right: 120px;
+  text-align: center;
+  margin-left: 80px;
+}
+.main{
+  margin-left: 580px;
+}
+
+#Sc1,#Sc2,#Sc3,#Sc4{
+  font-size: medium;
+  width: 100px;
+  height: 40px;
+ 
+}
+.points{
+  margin-left: 635px;
+  margin-top: 40px;
+}
+#gamer{
+  padding: 5px 14px;
+  margin-left: 400px;
+  margin-right: 250px;
+}
+
+
